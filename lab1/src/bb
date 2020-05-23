@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "path"
+pwd
+echo "date"
+date
+echo "PATH"
+echo $PATH
+
+
