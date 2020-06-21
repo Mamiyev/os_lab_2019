@@ -5,14 +5,15 @@
 ### Необходимые знания
 
 1. Аргументы командной строки
-2. Сборка с помощью gcc (clang) 
+2. Сборка с помощью gcc (clang)
 
 Написать функцию GetMinMax в find\_max\_min.c, которая ищет минимальный и максимальный элементы массива, на заданном промежутке.
 Разобраться, что делает программа в sequiential\_min\_max.c, скомпилировать, проверить, что написанный вами GetMinMax работает правильно.
 
 ### Ресурсы
 
-1. [Как компилировать простые программы с gcc (заменить сс на gcc).](https://www.classes.cs.uchicago.edu/archive/2014/winter/51081-1/LabFAQ/lab3/compile.html)
+1. [Как компилировать простые программы с gcc (заменить сс на gcc).]
+(https://www.classes.cs.uchicago.edu/archive/2014/winter/51081-1/LabFAQ/lab3/compile.html)
 2. [Пример с аргументами командной строки.](https://www.cprogramming.com/tutorial/c/lesson14.html)
 
 ## Задание 2 - 3
